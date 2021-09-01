@@ -1,0 +1,12 @@
+.map{
+    width: 100%;
+    height: 140%;
+  }
+
+
+  @media  screen and (min-width: 600px) {
+    .map{
+        height: 86%;
+        /* background-color: black; */
+    }
+}

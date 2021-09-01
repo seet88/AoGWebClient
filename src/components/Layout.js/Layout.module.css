@@ -1,0 +1,25 @@
+  .wrapper {
+    display: -webkit-flex;
+    display: flex;
+    background-color: rgb(223, 221, 221);
+  }
+
+  .map{  
+    -webkit-flex: 7;
+    -ms-flex: 7;
+    flex: 7;
+  }
+  
+.errorDistance{
+  display: flex;
+  justify-content: space-between;
+}
+
+.space{
+  width: 2rem;
+}
+
+.control{
+  display: flex;
+  flex-direction: column;
+}

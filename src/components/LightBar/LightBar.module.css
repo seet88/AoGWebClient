@@ -1,0 +1,10 @@
+.ul{
+    display:flex;
+    justify-content: center;
+    /* background-color:lightgray */
+}
+
+.li{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}

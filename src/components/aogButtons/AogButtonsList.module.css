@@ -1,0 +1,21 @@
+
+
+  .tractor-control {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+ }
+
+ .sections {
+  /* background-color: #f1f1f1; */
+  text-align: center;
+ }
+
+ ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.sections ul li {
+  display: inline-block;
+}

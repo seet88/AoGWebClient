@@ -1,0 +1,48 @@
+.sections{
+    height: 2rem;
+}
+
+button{
+    width: 6rem;    
+    border-radius: 0.5rem;
+    
+}
+
+.rightSideErrorDistance img, .leftSideErrorDistance img{
+    height: 1rem;
+}
+
+.auto{
+    background-color:rgb(150, 211, 58);
+}
+
+.off{
+    background-color:rgb(243, 89, 29);
+}
+
+.on{
+    background-color: rgb(219, 219, 31);
+}
+
+
+.true{
+    background-color:rgb(150, 219, 46);
+}
+
+.false{      
+    background-color:rgb(243, 89, 29);
+}
+
+
+.isClicked{
+    background-color: rgb(150, 105, 255);
+}
+
+
+
+@media  screen and (min-width: 600px) {
+    .imageButton{
+        height: 3.5rem;
+        /* background-color: black; */
+    }
+}
